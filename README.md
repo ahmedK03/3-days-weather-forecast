@@ -6,8 +6,8 @@ and it's able to generate more that 3 days with the premium subscription from we
 
 using ES6:
 
--fetch for the api.
--Asynch & await.
--manupulated the order of the api using concat Array method
--destructing 
+- fetch for the api.
+- Asynch & await.
+- manupulated the order of the api using concat Array method
+- destructing 
 
